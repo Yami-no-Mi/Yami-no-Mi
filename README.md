@@ -62,9 +62,8 @@
   <hr>
 
   <h3 align="center" style="color:#FF0000;">🔥 Latest Projects</h3>
-  <p>🚀 <strong><a href="https://github.com/Yami-no-Mi/security-toolkit">Security Toolkit</a></strong> – A penetration testing automation tool.</p>
-  <p>📡 <strong><a href="https://github.com/Yami-no-Mi/api-fortress">API Fortress</a></strong> – Secure and scalable backend framework.</p>
-  <p>🔍 <strong><a href="https://github.com/Yami-no-Mi/ctf-challenges">CTF Challenges</a></strong> – A collection of hacking challenges.</p>
+  <p>🚀 <strong><a href="https://github.com/Yami-no-Mi/CyberWatch">CyberWatch</a></strong> – Advanced Security Toolkit for Log Analysis, Server Hardening, and Intrusion Detection </p>
+  <p>📡 <strong><a href="https://github.com/Yami-no-Mi/DNS-Changer">DNS Changer Tool</a></strong> – This tool allows you to easily change and manage your DNS settings on Windows </p>
 
   <hr>
 
