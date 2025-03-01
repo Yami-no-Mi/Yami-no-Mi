@@ -3,7 +3,7 @@
 </head>
 
 <body style="font-family: 'Open Sans', sans-serif;">
-  <h1 align="center" style="color:#FF0000; font-size: 3rem; font-family: 'Poppins', sans-serif; transition: all 0.3s ease;">👋 Hey, I'm <span style="color:#FFFFFF;">Yami-no-Mi</span></h1>
+  <h1 align="center" style="color:#FF0000; font-size: 3rem; font-family: 'Poppins', sans-serif; transition: all 0.3s ease;">👋 Hey, I'm <span style="color:#FFFFFF;">Arash</span></h1>
   <h3 align="center" style="color:#FF0000; font-size: 1.5rem; font-family: 'Roboto', sans-serif;">Tool Developer | Backend Programmer | Security & Networking</h3>
 
   <hr>
