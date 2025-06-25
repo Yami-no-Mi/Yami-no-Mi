@@ -14,7 +14,7 @@
   <p>🔹 Passionate about <strong>ethical hacking</strong>, <strong>penetration testing</strong>, and <strong>Linux environments</strong>.</p>
   <p>💡 <strong>I believe in clean code, minimal surface attack, and data control as power.</strong></p>
   <p>📅 Started coding in <strong>2020</strong> | Active in the industry since <strong>2023</strong></p>
-  <p>🧠 Motto: <em>"هر کی جریان داده‌ها رو کنترل کنه، قدرت رو کنترل می‌کنه."</em></p>
+  <p>🧠 Motto: <em>"Controlling the flow of information means controlling the structure of power."</em></p>
 
   <hr>
 
@@ -23,19 +23,24 @@
     <a href="https://github.com/Yami-no-Mi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
     <a href="https://www.linkedin.com/in/arash-yadi-b29046342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
     <a href="https://t.me/triangle_company_official"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40"></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
+    <a href="darkeye25emoji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
   </p>
 
   <hr>
 
   <h3 align="center" style="color:#FF0000;">📊 GitHub Stats</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yami-no-Mi&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FFCC00&text_color=FFFFFF" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami-no-Mi&theme=dark&background=000000&ring=FF0000&fire=FFCC00&currStreakLabel=FFCC00" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yami-no-Mi&show_icons=true&theme=dark&title_color=FF0000&icon_color=FFCC00&text_color=FFFFFF&bg_color=000000" />
   </p>
+  
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami-no-Mi&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami-no-Mi&theme=dark&ring=FF0000&fire=FFCC00&currStreakLabel=FFCC00&background=000000" />
   </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami-no-Mi&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" />
+  </p>
+
 
   <hr>
 
