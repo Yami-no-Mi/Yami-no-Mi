@@ -35,9 +35,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Yami-no-Mi&show_icons=true&theme=dark&title_color=FF0000&icon_color=FFCC00&text_color=FFFFFF&bg_color=000000" />
   </p>
     
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami-no-Mi&theme=dark&ring=FF0000&fire=FFCC00&currStreakLabel=FFCC00&background=00000000" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami-no-Mi&theme=dark&ring=FF0000&fire=FFCC00&currStreakLabel=FFCC00&background=00000000" />
+</p>
 
   
   <p align="center">
