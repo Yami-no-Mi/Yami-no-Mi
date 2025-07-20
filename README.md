@@ -56,7 +56,6 @@
     <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="40">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40">
     <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="40">
     <img src="https://img.shields.io/badge/C/C++/CSharp-00599C?style=for-the-badge&logo=c&logoColor=white" height="40">
