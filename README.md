@@ -83,5 +83,5 @@
 
 
 
-  <p align="center">🔥 <strong>Always hacking, always learning, always building.</strong> 🚀</p>
+  <p align="center">🔥 <strong>If no light appears in darkness, maybe you are the light.</strong> 🚀</p>
 </body>
