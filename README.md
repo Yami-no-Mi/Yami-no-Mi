@@ -80,11 +80,8 @@
 
   <hr>
 
-  <h3 align="center" style="color:#FF0000;">🔥 Latest Projects</h3>
-  <p>🚀 <strong><a href="https://github.com/Yami-no-Mi/CyberWatch">CyberWatch</a></strong> – Advanced Security Toolkit for Log Analysis, Server Hardening, and Intrusion Detection.</p>
-  <p>📡 <strong><a href="https://github.com/Yami-no-Mi/DNS-Changer">DNS Changer Tool</a></strong> – Lightweight DNS configuration tool for Windows environments.</p>
 
-  <hr>
+
 
   <p align="center">🔥 <strong>Always hacking, always learning, always building.</strong> 🚀</p>
 </body>
