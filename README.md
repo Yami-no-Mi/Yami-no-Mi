@@ -1,87 +1,193 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Poppins:wght@400;500;700&family=Open+Sans:wght@400;600&family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
-</head>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&vCenter=true&width=600&lines=Software+Engineer;Systems+Architect;Infrastructure+Builder" alt="Typing SVG" />
+</p>
 
-<body style="font-family: 'Open Sans', sans-serif;">
-  <h1 align="center" style="color:#FF0000; font-size: 3rem; font-family: 'Poppins', sans-serif; transition: all 0.3s ease;">👋 Hey, I'm <span style="color:#FFFFFF;">Yami-no-Mi</span></h1>
-  <h3 align="center" style="color:#FF0000; font-size: 1.5rem; font-family: 'Roboto', sans-serif;">Backend Developer | Security Researcher | Network Specialist</h3>
+<h1 align="left">
+  Hey, I'm Yami-no-Mi 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+</h1>
 
-  <hr>
+<p align="left">
+  <img src="https://img.shields.io/badge/Software_Engineer-007ACC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Architect-6DB33F?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure_Expert-FF6F00?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Layer-8B0000?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
 
-  <h3 align="center" style="color:#FF0000;">🚀 About Me</h3>
-  <p>🔹 <strong>Backend developer</strong> with strong interest in <strong>networking</strong> and <strong>cybersecurity</strong>.</p>
-  <p>🔹 Experienced in building <strong>secure APIs</strong>, <strong>network-driven tools</strong>, and <strong>automation scripts</strong>.</p>
-  <p>🔹 Passionate about <strong>ethical hacking</strong>, <strong>penetration testing</strong>, and <strong>Linux environments</strong>.</p>
-  <p>💡 <strong>I believe in clean code, minimal surface attack, and data control as power.</strong></p>
-  <p>📅 Started coding in <strong>2020</strong> | Active in the industry since <strong>2023</strong></p>
-  <p>🧠 Motto: <em>"Controlling the flow of information means controlling the structure of power."</em></p>
+<br />
 
-  <hr>
+---
 
-  <h3 align="center" style="color:#FF0000;">🌐 Connect with Me</h3>
-  <p align="center">
-    <a href="https://github.com/Yami-no-Mi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
-    <a href="https://www.linkedin.com/in/arash-yadi-b29046342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
-    <a href="https://t.me/triangle_company_official"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40"></a>
-  <a href="mailto:darkeye25emoji@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
-  </a>
-  </p>
+## 👨‍💻 About Me
 
-  <hr>
-  <h3 align="center" style="color:#FF0000;">📊 GitHub Stats</h3>
-  
-  <div align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Yami-no-Mi&show_icons=true&theme=dark&title_color=FF0000&icon_color=FFCC00&text_color=FFFFFF&bg_color=000000" 
-      style="max-width: 100%; height: auto;" 
-    />
-  </div>
-  
+```
+⚡ Systems-first mindset  |  Analytical Score: 48/50
+🔧 Core Path: Backend + Systems + Infrastructure
+🛡️ Security by Design (not an afterthought)
+🚀 Builder of complex, reliable, real-world systems
+📅 In the industry since 2023
+```
+
+> *"I don't learn computers just to know them. I build systems that transform reality."*
+> 
+> *Motto: "Controlling the flow of information means controlling the structure of power."*
+
+<br />
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br />
+
+---
+
+## 📊 GitHub Dashboard (Live Stats)
+
+<div align="center">
+
+| Profile Stats | Top Languages |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=stars&rank_icon=github&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8) |
+
+</div>
+
+> **⚠️ Stats Not Showing?**  
+> Wait 2–3 minutes after your first push (Vercel caches images). Hard refresh: `Ctrl+Shift+R`  
+> If still blank, verify your GitHub username is **case-sensitive** and correct.
+
+<br />
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<br />
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<br />
+
+---
+
+## 🛠️ The Technical Arsenal
+
+### ⚡ Programming & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+### 🔐 Security & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TLS/SSL-8800AA?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### 🗄️ Databases & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+
+<br />
+
+---
+
+## 🗺️ The 3-Year Blueprint
+
+| Phase | Focus | Key Milestones |
+|-------|-------|-----------------|
+| **📘 Year 1: Foundation** | Lock in core skills | Go & Python mastery, 2–3 serious projects, Deep System Design, Linux & Networking |
+| **☁️ Year 2: Cloud & Platform** | Production systems | AWS/GCP, Production-like deployments, Monitoring & Scaling, Deployment mastery |
+| **🏛️ Year 3: Architecture** | Strategic thinking | Multi-layered systems, Product-level projects, Technical Leadership, Architect mindset |
+
+<br />
+
+---
+
+## 🚀 Project Philosophy
+
+Every project I build must:
+
+- 🎯 Solve a **real-world problem** (no to-do list clones)
+- 🧩 Have **multiple interactive modules**
+- 📐 Be **clearly architected** and documented
+- 🚀 Be **deployable** and **maintainable**
+- 📊 Deliver **measurable outcomes** (actual metrics)
+
+**Ideal Project Types:**
+- 🤖 Automation Platform
+- 🚨 Monitoring & Alerting System
+- 🔒 Secure Data/Request Service
+- 📊 Log/Event Aggregation & Analytics
+- 🔗 Service Orchestration System
+
+<br />
+
+---
+
+## ⚠️ The Anti-Shiny-Object Discipline
+
+| # | Law | Rationale |
+|---|-----|-----------|
+| **1** | **One Main Path** – `Backend + Systems + Infra` | Depth over breadth |
+| **2** | **One Active Sub-skill** – Security OR Data OR DevOps | Never all three at once |
+| **3** | **The "Someday" List** – New ideas go to a queue | Prevents impulsive pivots |
+| **4** | **12-Week Reviews** – Never daily, never weekly | Emotional decisions are dangerous |
+
+> 💡 **Filter Question:** *"Does this topic help me build a real system? Is it relevant to Backend/Architecture? Does it make me think better, or just learn more?"*
+
+<br />
+
+---
+
+## 📌 Pinned Repositories (Native GitHub Design)
+
+> 💡 Navigate to your GitHub Profile Settings > "Pinned" and pin your top 6 repositories. They will automatically appear natively above this README, creating a perfect GitHub dashboard look.
+
+<br />
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="left">
+  <b>
+    <i>"If no light appears in darkness, maybe you are the light."</i>
+  </b>
   <br>
-  
-  <div align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami-no-Mi&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000" 
-      style="max-width: 100%; height: auto;" 
-    />
-  </div>
-
-  <hr>
-
-  <h3 align="center" style="color:#FF0000;">🛠 Tech Stack</h3>
-
-  <h4 align="center" style="font-family: 'Poppins', sans-serif;">Programming & Backend</h4>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/C/C++/CSharp-00599C?style=for-the-badge&logo=c&logoColor=white" height="40">
-  </p>
-
-  <h4 align="center" style="font-family: 'Poppins', sans-serif;">Security & Networking</h4>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40">
-    <img src="https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Networking-1E72B1?style=for-the-badge&logo=cisco&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/CCNA-CF2C1D?style=for-the-badge&logo=cisco&logoColor=white" height="40">
-  </p>
-
-  <h4 align="center" style="font-family: 'Poppins', sans-serif;">Databases & DevOps</h4>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="40">
-  </p>
-
-  <hr>
-
-
-
-
-  <p align="center">🔥 <strong>If no light appears in darkness, maybe you are the light.</strong> 🚀</p>
-</body>
+  <sub>Systems Architect | Software Engineer</sub>
+</p>
