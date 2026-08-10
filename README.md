@@ -75,54 +75,126 @@
 
 ---
 
-## 🛠️ The Technical Arsenal
+## 🧠 The System Builder's Arsenal
 
-### ⚡ Programming & Backend
+I am not a scattered learner. I am an **architect and builder of sustainable systems**.  
+The tools listed here aren't for show—they are carefully curated for **building, connecting, and optimizing** real-world platforms.
+
+---
+
+### ⚙️ Core Specialization (The Main Path)
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge&logo=backend&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure_&_Platform-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-FF9900?style=for-the-badge&logo=automation&logoColor=white" />
 </p>
 
-### 🔐 Security & Networking
+> This is my **professional identity**. Everything else serves these five pillars.
+
+---
+
+### 🖥️ Programming & Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+- **Primary Language:** Python (for backend logic, architecture, and orchestration).
+- **Rapid Development:** Laravel + Vue/Next (for building MVPs, functional platforms, and user-facing layers).
+- **Automation & Scripting:** Bash / Python (for gluing systems together).
+
+---
+
+### 🗄️ Databases & Data Management
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+> Data structure design, query optimization, and seamless backend integration are core parts of my systemic approach.
+
+---
+
+### 🐧 Infrastructure & DevOps
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+
+- **OS & Environment:** Linux (serving, troubleshooting, and scripting).
+- **Virtualization & Isolation:** Docker.
+- **CI/CD & Deployment Automation:** GitHub Actions + Nginx.
+
+---
+
+### 🔐 Security & Networking (Layer, not Identity)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Network_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Security-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/TLS/SSL-8800AA?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-### 🗄️ Databases & DevOps
+> Security is an **architectural layer** for me, not a standalone identity.  
+> My networking knowledge enables me to design **resilient, reliable, and secure** systems from the ground up.
+
+---
+
+### 🤖 AI & Automation (The Complementary Layer)
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Concepts-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process_Automation-FF9900?style=for-the-badge&logo=automation&logoColor=white" />
 </p>
 
-<br />
+> I leverage AI as a tool for **intelligent automation** and **pattern analysis**—not as my primary domain, but as an enhancer for my systems.
 
 ---
 
-## 🗺️ The 3-Year Blueprint
+### 🧭 Project Management & System Architecture (The Strategic Layer)
 
-| Phase | Focus | Key Milestones |
-|-------|-------|-----------------|
-| **📘 Year 1: Foundation** | Lock in core skills | Go & Python mastery, 2–3 serious projects, Deep System Design, Linux & Networking |
-| **☁️ Year 2: Cloud & Platform** | Production systems | AWS/GCP, Production-like deployments, Monitoring & Scaling, Deployment mastery |
-| **🏛️ Year 3: Architecture** | Strategic thinking | Multi-layered systems, Product-level projects, Technical Leadership, Architect mindset |
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Architecture-FF6F00?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-2C3E50?style=for-the-badge&logo=project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structure_Design-0078D4?style=for-the-badge&logo=structure&logoColor=white" />
+</p>
 
-<br />
+> My ability to **see the whole system**, design **durable structures**, and coordinate teams is what turns ideas into execution.
 
 ---
+
+## 🏢 Raga
+
+<p align="left">
+  <a href="https://github.com/raga-Company" target="_blank">
+    <img src="https://img.shields.io/badge/Raga_Company-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+**Raga** is a platform for building sustainable, intelligent, and impactful systems.  
+It's where ideas transform into architecture, and architecture transforms into lasting digital products.
+
+
+<img src="https://avatars.githubusercontent.com/u/296162600?s=200&v=4" alt="Raga Logo" width="150" />
+
+---
+
+> **Reminder:** This list is not a display of scattered knowledge.  
+> Every tool has its place, serving **System Architecture**, **Sustainability**, and **Real-World Impact**.  
+> My path is **building**, not collecting.
 
 ## 🚀 Project Philosophy
 
