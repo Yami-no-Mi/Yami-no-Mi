@@ -39,25 +39,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Yami-no-Mi/Yami-no-Mi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arash-yadi-b29046342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Yami_no_Mi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:arash.yadi.naei@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br />
 
----
-
-## 📊 GitHub Dashboard (Live Stats)
-
-<div align="center">
-
-| Profile Stats | Top Languages |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=stars&rank_icon=github&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8) |
-
-</div>
 
 > **⚠️ Stats Not Showing?**  
 > Wait 2–3 minutes after your first push (Vercel caches images). Hard refresh: `Ctrl+Shift+R`  
@@ -65,22 +53,22 @@
 
 <br />
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yami-no-Mi&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
-<br />
+<br /> -->
 
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yami-no-Mi&theme=github-compact&utm_source=chatgpt.com" alt="Contribution Graph" />
 </p>
 
 <br />
@@ -181,7 +169,7 @@ Every project I build must:
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yami-no-Mi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="left">
