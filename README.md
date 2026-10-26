@@ -1,45 +1,46 @@
 <!--
-  Yami-no-Mi / Arash Yadi — GitHub Profile README — Final
+  Yami-no-Mi / Arash Yadi — GitHub Profile README — Ultimate Edition
 
-  Design language: obsidian black / signature red / crimson depth / ember energy / editorial rhythm
-  Source of truth: portfolio + long-term roadmap
-  Visual system:
-  -- SIGNATURE RED: #F23A4F (identity / attention / confidence)
-  -- OBSIDIAN: #090A0E (authority / focus / technical gravity)
-  -- CRIMSON: #9E2436 (architecture / intelligence / depth)
-  -- EMBER: #FF7445 (execution / warmth / momentum)
+  Theme: Obsidian & Crimson
+  -- SIGNATURE RED: #F23A4F (identity / attention)
+  -- OBSIDIAN: #090A0E (authority / focus)
+  -- CRIMSON: #9E2436 (architecture / depth)
+  -- EMBER: #FF7445 (execution / momentum)
 -->
 
+<!-- ==================== HERO SECTION (TOP) ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0E,55:241017,100:F23A4F&height=210&section=header&text=Yami-no-Mi&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Systems%20Architect%20%C2%B7%20Technical%20Leader%20%C2%B7%20Software%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" alt="Yami-no-Mi — Systems Architect · Technical Leader · Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0E,55:241017,100:F23A4F&height=180&section=header&text=Yami-no-Mi&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Systems%20Architect%20%C2%B7%20Technical%20Leader%20%C2%B7%20Software%20Engineer&descSize=15&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Yami-no-Mi">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=F23A4F&center=true&vCenter=true&width=760&height=56&lines=Systems+Architect;Technical+Leader;Software+Engineer;Builder+of+Intelligent+Systems" alt="Yami-no-Mi — Systems Architect, Technical Leader, Software Engineer" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F23A4F&center=true&vCenter=true&width=760&height=50&lines=Systems+Architect;Technical+Leader;Software+Engineer;Builder+of+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <sub><b>Yami-no-Mi</b> · Arash Yadi · <b>Systems first.</b> Architecture before noise.</sub>
-</p>
-<p align="center">
-  <sub>▰ <b>BUILD</b> &nbsp; · &nbsp; ▰ <b>ARCHITECT</b> &nbsp; · &nbsp; ▰ <b>LEAD</b> &nbsp; · &nbsp; ▰ <b>IMPACT</b></sub>
-</p>
-
-<p align="center">
-  <sub>● <b>RED</b> identity &nbsp;·&nbsp; ■ <b>BLACK</b> depth &nbsp;·&nbsp; ◆ <b>EMBER</b> execution</sub>
-</p>
-
+<!-- ==================== LIVE STATS ROW ==================== -->
+<!-- این بخش دقیقاً اولین نمودارهایی است که بازدیدکننده می‌بیند -->
 <p align="center">
   <a href="https://github.com/Yami-no-Mi">
-    <img src="https://img.shields.io/badge/GitHub-Yami--no--Mi-111217?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yami-no-Mi&show_icons=true&theme=github_dark&hide_border=true&bg_color=090A0E&title_color=F23A4F&text_color=c9d1d9&icon_color=FF7445" alt="GitHub Stats" height="165" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Architecture-F23A4F?style=for-the-badge&logoColor=white" alt="Systems and Architecture" />
-  <img src="https://img.shields.io/badge/Scope-Backend%20%7C%20Infra%20%7C%20AI-9E2436?style=for-the-badge" alt="Backend Infra AI" />
+  <a href="https://github.com/Yami-no-Mi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami-no-Mi&layout=compact&theme=github_dark&hide_border=true&bg_color=090A0E&title_color=F23A4F&text_color=c9d1d9" alt="Top Langs" height="165" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Yami-no-Mi">
+    <img src="https://streak-stats.demolab.com/?user=Yami-no-Mi&theme=github-dark-blue&hide_border=true&background=090A0E&ring=F23A4F&fire=FF7445&currStreakLabel=F23A4F" alt="GitHub Streak" height="165" />
+  </a>
+  <a href="https://github.com/Yami-no-Mi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yami-no-Mi&theme=github_dark&bg_color=090A0E&title_color=F23A4F&text_color=c9d1d9" alt="Profile Details" height="165" />
+  </a>
 </p>
 
 ---
+
+<!-- ==================== MAIN CONTENT ==================== -->
 
 <table>
 <tr>
@@ -90,18 +91,20 @@ Measure → Reflect → Improve
 </tr>
 </table>
 
-<div align="center">`SYSTEMS · ARCHITECTURE · LEADERSHIP`</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/SYSTEMS_·_ARCHITECTURE_·_LEADERSHIP-F23A4F?style=for-the-badge&logoColor=white" alt="Systems Architecture Leadership" />
+</div>
 
 ---
 
 ## `01 / PROFESSIONAL POSITIONING`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems_Architecture-F23A4F?style=for-the-badge&logoColor=>F23A4F" />
-  <img src="https://img.shields.io/badge/Software_Architecture-9E2436?style=for-the-badge&logoColor=F23A4F" />
-  <img src="https://img.shields.io/badge/Technical_Leadership-7C1D2D?style=for-the-badge&logoColor=F23A4F" />
-  <img src="https://img.shields.io/badge/Business_Systems-641927?style=for-the-badge&logoColor=F23A4F" />
-  <img src="https://img.shields.io/badge/AI_%26_Automation-FF7445?style=for-the-badge&logoColor=F23A4F" />
+  <img src="https://img.shields.io/badge/Systems_Architecture-F23A4F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Architecture-9E2436?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical_Leadership-7C1D2D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Systems-641927?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%26_Automation-FF7445?style=for-the-badge&logoColor=white" />
 </p>
 
 | Layer | What it means in practice |
@@ -355,7 +358,9 @@ The learning loop is intentionally outcome-based:
 
 `Learn → Build → Deploy → Measure → Reflect → Improve`
 
-<div align="center">`FROM ENGINEERING → TO ORGANIZATION`</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/FROM_ENGINEERING_→_TO_ORGANIZATION-F23A4F?style=for-the-badge&logoColor=white" alt="From Engineering to Organization" />
+</div>
 
 ---
 
@@ -540,7 +545,6 @@ The roadmap organizes learning into four families:
 
 </details>
 ---
-
 > **Not a collection of skills. A direction.**
 
 ---
@@ -586,6 +590,7 @@ The destination is **larger systems, better judgment, and durable impact**.
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F23A4F,55:241017,100:090A0E&height=120&section=footer&text=Build%20with%20intent.&fontColor=FFFFFF&fontSize=24&fontAlignY=62" alt="Build with intent." />
 </p>
